@@ -1,0 +1,15 @@
+version: 3.0.3
+apkFileName: mensa.apk
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: 29
+  targetSdkVersion: 36
+versionInfo:
+  versionCode: 2
+  versionName: 1.1
+resourcesInfo:
+  packageId: 127
+doNotCompress:
+- arsc

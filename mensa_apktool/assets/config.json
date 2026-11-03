@@ -1,0 +1,8 @@
+{
+  "kasse": {
+    "upload_url": "http://kasse.mensa-hhn.example/api/tagesangebot",
+    "token": "ksk_7f3e9a2c51d84b06e1c2"
+  },
+  "staging_api": "http://staging.mensa-hhn.example/v1/",
+  "show_system_info": true
+}

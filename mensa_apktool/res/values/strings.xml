@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mensa</string>
+    <string name="firebase_database_url">https://mensa-hhn-fiktiv-default-rtdb.europe-west1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId">204611220260</string>
+    <string name="google_api_key">AIzaSyFIKTIV-Mensa-HHN-kein-echter-Key0</string>
+    <string name="google_app_id">1:204611220260:android:5f3c0e9d2a7b4c18</string>
+    <string name="google_storage_bucket">mensa-hhn-fiktiv.firebasestorage.app</string>
+    <string name="project_id">mensa-hhn-fiktiv</string>
+    <string name="staff_button">Mitarbeiterbereich öffnen</string>
+    <string name="staff_code_hint">Mitarbeitercode</string>
+    <string name="staff_code_wrong">Code falsch</string>
+    <string name="staff_locked">Zu viele Fehlversuche</string>
+    <string name="staff_title">Mitarbeiterbereich</string>
+</resources>
