@@ -112,7 +112,7 @@
 
     const/4 v1, 0x3
 
-    const/4 v2, 0x0
+    const/4 v2, 0x1
 
     if-lt v0, v1, :cond_0
 
